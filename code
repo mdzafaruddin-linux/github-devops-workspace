@@ -5,3 +5,43 @@ git add
 git commit -m
 
 above there commands code fpor beginner level
+
+below are the some advance code of git 
+
+git add code
+  git status
+  git commit -m "All git commands code"
+  git remote -v
+  git remote add origin https://github.com/mdzafaruddin-linux/github-devops-workspace.git
+  git push -u origin main
+  git remote set-url origin  https://github.com/mdzafaruddin-linux/github-devops-workspace.git
+  git push -u origin master
+  git remote -v
+  touch devopscode
+  vi devopscode
+  git status
+  git add devopscode
+  git status
+  git commit -m "new dev code"
+  git push -u origin master
+  mkdir git demo
+  ls
+  cd demo
+  pwd
+  cd .
+  ls
+  rm -rf demo
+  ls
+  rm -rf git
+  ls
+  cd
+  ls
+  cd github-devops-workspace/
+   ls
+  rm -rf git
+  rm -rf demo
+  mkdir gitdemo
+  
+ ls
+  cd gitdemo/
+
